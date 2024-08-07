@@ -37,7 +37,7 @@ nav {
 	z-index: 1;
 	background-color: #FFF;
 	border-bottom: 1px solid #CCC;
-	background-color: #8B0000;
+	background-color: #00067C;
  }
 
  nav:after {
@@ -51,12 +51,12 @@ nav {
  	position: relative;
  	margin-right: auto;
  	margin-left: auto;
-	background-color: #8B0000;
+	background-color: #00067C;
  }
 
  #logo {
- 	width: 50px;
- 	height: 50px;
+ 	width: 196,983px;
+ 	height: 50,2333px;
  	margin-top: 25px;
 	fill: currentColor;
  }
@@ -140,4 +140,3 @@ nav {
  .cabe2 {
 	 height: 80px;
 }
- 
